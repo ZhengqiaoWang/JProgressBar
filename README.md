@@ -41,7 +41,7 @@ using namespace Joger::ProgressBar;
 ```
 
 ## Features
-
+Supports linux and windows platforms
 ### Customize the style of the progress bar.
 
 You can customize the style of the progress bar by modifying the constants defined in the header file
