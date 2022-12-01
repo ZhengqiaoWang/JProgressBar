@@ -44,6 +44,10 @@
 
 默认进度条会占用控制台宽度的80%，因此你可以无需关注控制台的宽度。
 
+### 跨平台支持
+
+支持Linux或Windows
+
 ## Stargazers
 
 [![Stargazers repo roster for @ZhengqiaoWang/JProgressBar](https://reporoster.com/stars/ZhengqiaoWang/JProgressBar)](https://github.com/ZhengqiaoWang/JProgressBar/stargazers)
