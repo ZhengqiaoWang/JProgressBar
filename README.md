@@ -41,7 +41,7 @@ using namespace Joger::ProgressBar;
 ```
 
 ## Features
-Supports linux and windows platforms
+
 ### Customize the style of the progress bar.
 
 You can customize the style of the progress bar by modifying the constants defined in the header file
@@ -59,3 +59,7 @@ The default progress bar takes up 80% of the console width, so you don't have to
 ## Forkers
 
 [![Forkers repo roster for @ZhengqiaoWang/JProgressBar](https://reporoster.com/forks/ZhengqiaoWang/JProgressBar)](https://github.com/ZhengqiaoWang/JProgressBar/network/members)
+
+### Cross platforms
+
+Support both linux and windows.

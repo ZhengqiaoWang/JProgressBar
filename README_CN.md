@@ -33,7 +33,6 @@
 ```
 
 ## 特性
-支持linux和windows平台
 
 ### 可以自定义进度条风格。
 
@@ -52,3 +51,7 @@
 ## Forkers
 
 [![Forkers repo roster for @ZhengqiaoWang/JProgressBar](https://reporoster.com/forks/ZhengqiaoWang/JProgressBar)](https://github.com/ZhengqiaoWang/JProgressBar/network/members)
+
+### 跨平台支持
+
+支持Linux或Windows
