@@ -43,3 +43,11 @@
 ### 可以自适应控制台宽度
 
 默认进度条会占用控制台宽度的80%，因此你可以无需关注控制台的宽度。
+
+## Stargazers
+
+[![Stargazers repo roster for @ZhengqiaoWang/JProgressBar](https://reporoster.com/stars/ZhengqiaoWang/JProgressBar)](https://github.com/ZhengqiaoWang/JProgressBar/stargazers)
+
+## Forkers
+
+[![Forkers repo roster for @ZhengqiaoWang/JProgressBar](https://reporoster.com/forks/ZhengqiaoWang/JProgressBar)](https://github.com/ZhengqiaoWang/JProgressBar/network/members)

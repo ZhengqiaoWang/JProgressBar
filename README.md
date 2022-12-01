@@ -1,5 +1,7 @@
 # JProgressBar
 
+[[中文]](README_CN.md)
+
 This is a very simple and easy to use C++ progress bar header file. You only need to refer to the examples in `example` to get started very easily.
 
 Here's how it works.
@@ -49,3 +51,11 @@ By default it looks like this.
 ### Can adapt to the console width
 
 The default progress bar takes up 80% of the console width, so you don't have to pay attention to the console width.
+
+## Stargazers
+
+[![Stargazers repo roster for @ZhengqiaoWang/JProgressBar](https://reporoster.com/stars/ZhengqiaoWang/JProgressBar)](https://github.com/ZhengqiaoWang/JProgressBar/stargazers)
+
+## Forkers
+
+[![Forkers repo roster for @ZhengqiaoWang/JProgressBar](https://reporoster.com/forks/ZhengqiaoWang/JProgressBar)](https://github.com/ZhengqiaoWang/JProgressBar/network/members)
