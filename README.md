@@ -52,6 +52,10 @@ By default it looks like this.
 
 The default progress bar takes up 80% of the console width, so you don't have to pay attention to the console width.
 
+### Cross platforms
+
+Support both linux and windows.
+
 ## Stargazers
 
 [![Stargazers repo roster for @ZhengqiaoWang/JProgressBar](https://reporoster.com/stars/ZhengqiaoWang/JProgressBar)](https://github.com/ZhengqiaoWang/JProgressBar/stargazers)
@@ -59,7 +63,3 @@ The default progress bar takes up 80% of the console width, so you don't have to
 ## Forkers
 
 [![Forkers repo roster for @ZhengqiaoWang/JProgressBar](https://reporoster.com/forks/ZhengqiaoWang/JProgressBar)](https://github.com/ZhengqiaoWang/JProgressBar/network/members)
-
-### Cross platforms
-
-Support both linux and windows.
